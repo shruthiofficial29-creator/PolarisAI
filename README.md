@@ -6,13 +6,6 @@
 
 ## Run (frontend only, offline)
 
-```bash
-cd polaris
-npm install
-npm run dev      # → http://localhost:5173
-npm run build    # production check
-```
-
 No API keys, no network calls at runtime. Custom SVG south-polar map (no tiles).
 
 ## 21-step demo script
