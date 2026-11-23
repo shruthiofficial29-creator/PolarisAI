@@ -1,5 +1,4 @@
-"""Optional FastAPI mirror of the frontend demo services (Phase 7).
-Frontend never depends on this; it keeps working offline if backend is down."""
+
 from fastapi import FastAPI
 from schemas import RiskRequest, RouteRequest, SimRequest
 
